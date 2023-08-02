@@ -15,5 +15,19 @@
 - Object oriented programming. 
 
 ## Usage:
-1. To clone project
+Steps:
+1. Clone Project
+```
+git clone https://github.com/Avi8010/Elevator-Management-System.git
+```
+2. Compilation
+```
+javac Elv_Sim.java
+```
+3. Run
+```
+java Elv_Sim
+```
+## Contributors
+- <a href="https://github.com/Avi8010">Avinash Maharnavar</a>
 
